@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kipple99/kipple99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+### 👋 Hi 👋   
+
+ - 🧑🏻‍💻   **I'm a Data Science**    
+
+ - 🇰🇷  **I'm working in South Korea**
+
+### How to reach me? 🤔
+
+- 📮 email : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kuksungwoo99@gmail.com)](mailto:kuksungwoo99@gmail.com)<br>
+
+### I'm active here 😚
+- 🧤 blog : <a href="https://kuksungwoo99.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/></a> <a href="https://blog.naver.com/kuksungwoo99"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/></a>
+  
+Language🛠️<br>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img alt="SPSS" src="https://img.shields.io/badge/SPSS-%234B275F.svg?&style=for-the-badge&logo=SPSS&logoColor=white">
+<br>Office<br>
+<img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+<img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+<img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<br>
+  
+![Kipple99's GitHub stats](https://github-readme-stats.vercel.app/api?username=kipple99&show_icons=true&theme=radical)
