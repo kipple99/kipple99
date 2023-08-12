@@ -1,6 +1,6 @@
 ### 👋 Welcome to My GitHub 👋   
 
- - 🧑🏻‍💻  **I'm a Data Analytic Engineer**    
+ - 🧑🏻‍💻  **I'm a Data Engineer**    
 
  - 🇰🇷  **I'm working in Seoul**
 
