@@ -6,8 +6,10 @@
 
 ### How to reach me? 🤔
 
+https://www.linkedin.com/in/sungwoo-kuk-201916289/
+
 - 📮 email : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kuksungwoo99@gmail.com)](mailto:kuksungwoo99@gmail.com)<br>
-- 🚀 profile : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/성우-국-2a0119289/)](https://www.linkedin.com/in/성우-국-2a0119289/)
+- 🚀 profile : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sungwoo-kuk-201916289/)](https://www.linkedin.com/in/sungwoo-kuk-201916289/)
 
 ### I'm active here 😚
 - 🧤 blog : 
