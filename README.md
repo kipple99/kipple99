@@ -20,7 +20,7 @@
 ### I've Used 😎
 <img src="https://img.shields.io/badge/Python-1E8CBE?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=UiPath&logoColor=white"> <img src="https://img.shields.io/badge/UiPathOrchestrator-FA4616?style=flat&logo=UiPath&logoColor=white">
  <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=postgreSQL&logoColor=white"> 
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"> <img src="https://img.shields.io/badge/amazonredshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"> 
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"> <img src="https://img.shields.io/badge/amazonredshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"> 
 
 
 ### It's a language I use a lot 🤓
