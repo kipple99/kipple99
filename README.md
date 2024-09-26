@@ -11,8 +11,7 @@
 
 ### I'm active here 😚
 - 🧤 blog : 
-<a href="https://kuksungwoo99.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/></a> 
-<a href="https://blog.naver.com/kuksungwoo99"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/></a>
+<a href="https://kuksungwoo99.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
